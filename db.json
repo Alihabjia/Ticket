@@ -9,7 +9,8 @@
 			"date_fin":"2019-06-11",
 			"status":"en cours",
 			"priorite":"normal",
-			"projet":"Gestion  des projets"
+			"projet":"Gestion des projets",
+			"client":"SocialX"
 		},
 		{
 			"id":"2",
@@ -19,7 +20,8 @@
 			"date_fin":"2019-06-15",
 			"status":"en cours",
 			"priorite":"normal",
-			"projet":"Gestion  des projets"
+			"projet":"Gestion des projets",
+			"client":"SocialX"
 		},
 		{	
 			"id":"3",
@@ -29,7 +31,8 @@
 			"date_fin":"2019-06-20",
 			"status":"en attente",
 			"priorite":"normal",
-			"projet":"Gestion  des projets"
+			"projet":"Gestion des projets",
+			"client":"SocialX"
 		},
 		{	
 			"id":"4",
@@ -39,7 +42,8 @@
 			"date_fin":"2019-06-17",
 			"status":"en attente",
 			"priorite":"normal",
-			"projet":"Gestion  des projets"
+			"projet":"Gestion des projets",
+			"client":"SocialX"
 		},
 		{	
 			"id":"5",
@@ -49,7 +53,8 @@
 			"date_fin":"2019-07-25",
 			"status":"en attente",
 			"priorite":"normal",
-			"projet":"Gestion  des chantiers"
+			"projet":"Gestion des chantiers"
+			"client":"Sté SPD"
 		}
 	]
 }	
