@@ -17,8 +17,8 @@
 			"Code":"ticket2",
 			"description":"ticket2 description",
 			"date_debut":"2019-06-12",
-			"date_fin":"2019-06-15",
-			"status":"en cours",
+			"date_fin":"2019-06-18",
+			"status":"valide",
 			"priorite":"normal",
 			"projet":"Gestion des projets",
 			"client":"SocialX"
@@ -55,6 +55,17 @@
 			"priorite":"normal",
 			"projet":"Gestion des chantiers",
 			"client":"Sté SPD"
+		},
+		{	
+			"id":"6",
+			"Code":"ticket6",
+			"description":"ticket6 description",
+			"date_debut":"2019-08-15",
+			"date_fin":"2019-08-25",
+			"status":"en cours",
+			"priorite":"normal",
+			"projet":"Gestion des projets",
+			"client":"SocialX"
 		}
 	]
 }	
