@@ -61,7 +61,7 @@
 			"Code":"ticket6",
 			"description":"ticket6 description",
 			"date_debut":"2019-06-27",
-			"date_fin":"2019-08-30",
+			"date_fin":"2019-06-30",
 			"status":"valide",
 			"priorite":"urgente",
 			"projet":"Gestion des projets",
